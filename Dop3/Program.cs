@@ -61,6 +61,7 @@ namespace ConsoleApp
                     }
 
 
+
                 if(Dop3_Resp()<M)
                 {
                     Print_New(resp);
