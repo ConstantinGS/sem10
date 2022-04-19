@@ -1,0 +1,15 @@
+C:\Users\Image\Desktop\C#\Sem10\sem10\Dop3\obj\Debug\net6.0\Dop3.csproj.AssemblyReference.cache
+C:\Users\Image\Desktop\C#\Sem10\sem10\Dop3\obj\Debug\net6.0\Dop3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Image\Desktop\C#\Sem10\sem10\Dop3\obj\Debug\net6.0\Dop3.AssemblyInfoInputs.cache
+C:\Users\Image\Desktop\C#\Sem10\sem10\Dop3\obj\Debug\net6.0\Dop3.AssemblyInfo.cs
+C:\Users\Image\Desktop\C#\Sem10\sem10\Dop3\obj\Debug\net6.0\Dop3.csproj.CoreCompileInputs.cache
+C:\Users\Image\Desktop\C#\Sem10\sem10\Dop3\bin\Debug\net6.0\Dop3.exe
+C:\Users\Image\Desktop\C#\Sem10\sem10\Dop3\bin\Debug\net6.0\Dop3.deps.json
+C:\Users\Image\Desktop\C#\Sem10\sem10\Dop3\bin\Debug\net6.0\Dop3.runtimeconfig.json
+C:\Users\Image\Desktop\C#\Sem10\sem10\Dop3\bin\Debug\net6.0\Dop3.dll
+C:\Users\Image\Desktop\C#\Sem10\sem10\Dop3\bin\Debug\net6.0\Dop3.pdb
+C:\Users\Image\Desktop\C#\Sem10\sem10\Dop3\obj\Debug\net6.0\Dop3.dll
+C:\Users\Image\Desktop\C#\Sem10\sem10\Dop3\obj\Debug\net6.0\refint\Dop3.dll
+C:\Users\Image\Desktop\C#\Sem10\sem10\Dop3\obj\Debug\net6.0\Dop3.pdb
+C:\Users\Image\Desktop\C#\Sem10\sem10\Dop3\obj\Debug\net6.0\Dop3.genruntimeconfig.cache
+C:\Users\Image\Desktop\C#\Sem10\sem10\Dop3\obj\Debug\net6.0\ref\Dop3.dll
